@@ -14,21 +14,21 @@ body {
 }
 
 main {
-    margin: 6em auto;
+    margin: 8em auto;
     width: 50em;
 }
 
 h1 {
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
 }
 
 p {
-    margin-bottom: 2em;
+    margin-bottom: 4em;
 }
 
 .video {
     text-align: center;
-    margin: 3em 0 1em;
+    margin: 5em 0 1em;
 }
 
 .links {
@@ -64,7 +64,13 @@ p {
 
 footer {
     height: 50px;
-    background-color: aquamarine;
+    background-color: rgb(138, 138, 138);
+    color: #222;
+    font-weight: 700;
     text-align: center;
     line-height: 3em;
+/*
+    margin: 8em auto;
+    width: 50em;
+*/
 }
