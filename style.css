@@ -41,9 +41,6 @@ p {
 
 .list {
     margin: 1em 0;
-    /*
-    padding: 0.5em 0 0 0;
-    */
     display: flex;
 }
 
@@ -69,8 +66,4 @@ footer {
     font-weight: 700;
     text-align: center;
     line-height: 3em;
-/*
-    margin: 8em auto;
-    width: 50em;
-*/
 }
